@@ -4,7 +4,7 @@ Login page sederhana menggunakan html &amp; css, dan js. untuk kebutuhan website
 Beberapa point yang bisa di ambil dari repo ini
 - menggunakan html, dan css sederhana
 - atribut desain sudah di sediakan
-- belum rensponsif, masih menjadi website statis
+- belum dinamis, masih menjadi website statis
 - js bisa digunakan secara functional, karna tidak menggunakan juga tidak masalah
 
 Terimakasih 🙏
